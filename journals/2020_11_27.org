@@ -1,0 +1,5 @@
+#+TITLE: Nov 27th, 2020
+
+** 今天安装了logseq
+** 体验一下
+** github也挺好用
